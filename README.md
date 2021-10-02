@@ -1,14 +1,14 @@
 # Machine Learning and Statistics 2021 Assessment
 
-## Summary of Assignment
-This repository contains my machine learning and statistics assessment 2021. It looks at linear regression using Python on the pwerproduction dataset.  My notebook contains explanation for each of the lines of input and output code.
+## Summary of Assessment
+This repository contains my machine learning and statistics assessment 2021. It contains two jupyter notebooks.  Scikit-learn and Scipy stats. My notebooks contain explanation for each of the lines of input and output code.
 
 I commenced work on this assignment on 27th September 2021 and completed work for the deadline of 19th December 2021.
 
 
-[See here for the Assignment Instructions 2021](https://github.com/ianmcloughlin/assessment-2122-machstat/raw/main/assessment.pdf)
+[See here for the Assessment Instructions 2021](https://github.com/ianmcloughlin/assessment-2122-machstat/raw/main/assessment.pdf)
 
-## Liabries used in this Assignment
+## Liabries used in this Assessment
 I impoted: Matplotlib, Seaborn, Numpy, Pandas, Scikit-Learn
 
 * Matplolib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms.
@@ -28,10 +28,12 @@ I impoted: Matplotlib, Seaborn, Numpy, Pandas, Scikit-Learn
 ## Whats contained in the repository
 This repository contains the following files:
 
++ requirements.txt- file to enable user to quickly run the notebook
 + Licence file
-+ 2020 Programming Assignment.ipynb - Jupyter notebook
++ Scikit-learn.ipynb - Jupyter notebook
++ Scipy-stats.ipynb - Jupyter notebook
 + README.md - This document
-+ powerproduction.csv - data file
++ assessment(20).pdf - PDF File with Assessment Instructions
 
 ## Running the Jupyter Notebook 2
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows): jupyter notebook This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
